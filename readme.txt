@@ -1,6 +1,6 @@
 About
 =============
-This is a demo application to demonstrate audio mixing using gstreamer element - "adder"
+This is a demo application to demonstrate audio mixing using gstreamer "adder" element
 
 Build
 =============
